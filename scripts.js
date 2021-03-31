@@ -31,6 +31,19 @@ $(function(){
 // Modulos are not used very often, but when you see them they are usually used for little nifty tricks like this or situations where you need to find odd vs even #s. 
 
 // (0 + 1) 1 % 3 = 1
+//  1 / 3 = 0.3333 = 0
+//  0 * 3 = 0 
+//  1 - 0 = 1
+
+
 // (1 + 1) 2 % 3 = 2
 // (2 + 1) 3 % 3 = 0
+
+
+// 4000 % 6 = 
+// 4000 / 6 = 666.67 = 666
+// 666 * 6 = 3996
+// 4000 - 3996 = 4
+
+
 
